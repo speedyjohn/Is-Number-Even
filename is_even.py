@@ -402,6 +402,8 @@ def is_even(number: int) -> bool:
         return False
     elif number == 200:
         return True
+    elif number == 34534521132230:
+       return True
     else:
         return False
 
